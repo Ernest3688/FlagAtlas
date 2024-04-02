@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", () => {
     filterCountries(searchTerm);
   });
 
-  //   Making use of Fetch data
+  //   Making use of Fetch and catch error
   fetch("country.json")
     .then((response) => response.json())
     .then((fetchedData) => {
