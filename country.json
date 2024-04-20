@@ -2148,7 +2148,7 @@
     "area": 83600
   },
   {
-    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "name": "United Kingdom",
     "capital": "London",
     "languages": ["English"],
     "population": 67215293,
@@ -2158,7 +2158,7 @@
   },
   {
     "name": "United States of America",
-    "capital": "Washington, D.C.",
+    "capital": "Washington D.C.",
     "languages": ["English"],
     "population": 329484123,
     "flag": "https://flagcdn.com/us.svg",
