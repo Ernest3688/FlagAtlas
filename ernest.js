@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const cardContent = document.createElement("div");
     cardContent.classList.add("card_content");
 
-    //Title or country name
+    //Country name
   
     const title = document.createElement("h2");
     title.textContent = country.name;
