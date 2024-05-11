@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let data = []; // define data outside the event listener
   console.log(data);
 
-  //   Function to create card for each country
+  //   Function to create card 
   function createCard(country) {
     //Container that contains each country details
     const card = document.createElement("div");
